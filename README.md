@@ -13,7 +13,7 @@ For more information, see https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Relat
 
 ## Copyright
 
-Copyright (c) 2019 John Kennedy (Openstreetmap Username: jmkie)
+Copyright (c) 2019 John Kennedy (OpenStreetMap Username: jmkie)
 
 
 ## License
