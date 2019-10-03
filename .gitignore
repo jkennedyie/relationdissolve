@@ -1,0 +1,7 @@
+/.project
+/.checkstyle
+/.classpath
+.settings
+bin
+build
+javadoc
